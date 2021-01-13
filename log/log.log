@@ -1,0 +1,2 @@
+time="2021-01-12T11:04:23+08:00" level=info Agent=PostmanRuntime/7.26.8 DataSize=40 HostName=DESKTOP-JP02EIO IP="::1" Method=PUT Path=/api/v1/user/add SpendTime="11 ms" status="2021-01-12 11:04:23.1179725 +0800 CST m=+77.837522001"
+time="2021-01-12T11:04:35+08:00" level=info Agent=PostmanRuntime/7.26.8 DataSize=213 HostName=DESKTOP-JP02EIO IP="::1" Method=POST Path=/api/v1/user/add SpendTime="473 ms" status="2021-01-12 11:04:35.5076449 +0800 CST m=+90.227194401"
