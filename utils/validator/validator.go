@@ -10,6 +10,7 @@ import (
 	"reflect"
 )
 
+// 验证User数据是否合法
 func Validate(data interface{}) (string, int) {
 	validate := validator.New()
 	uni := ut.New(zh_Hans_CN.New())
